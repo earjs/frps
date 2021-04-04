@@ -1,2 +1,2 @@
 # frps
-frp service
+Docker image for frp service
